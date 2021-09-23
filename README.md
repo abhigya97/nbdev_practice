@@ -2,6 +2,11 @@
 > An introduction to software development with nbdev!
 
 
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
 Practicing software development using nbdev!
 
 ## Install
